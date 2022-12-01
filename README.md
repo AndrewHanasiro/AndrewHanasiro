@@ -4,13 +4,13 @@ I work as Software Engineer since 2018. I love to learn new things and teach oth
 
 This project below is still in progress but already has a lot of my knowledge and experience. Since, each of those systems is quitely big, I just put the link. Each one of them has a detailed description.
 
-## Project Auth+
+## Auth+
 
 Systems as if this organization was a real Startup! All those projects must challenge me in a way (language, concepts, or tools), but all this effort should have a target: simulate microservices in the company.
 
-### Pitch
+### Pitch Deck
 
-A lot of startups have a dilemma: should I create an Authentication/Authorization system **or** should I integrate with another? The trade-off is simple,
+A lot of startups have a dilemma: should I create from zero **or** should I pay to use? The trade-off is simple,
 
 - Cons of Creating a new one
   - time to waste
@@ -21,6 +21,8 @@ A lot of startups have a dilemma: should I create an Authentication/Authorizatio
   - a high cost
   - the effort to integrate.
   - a high cost to customize if necessary
+
+Auth+ has small startup as a target, offering all kind of system at low cost, but also offering support to customize. Monetizing for each system that the client wants to subscribe
 
 ### Competitors
 
