@@ -6,7 +6,7 @@ This project below is still in progress but already has a lot of my knowledge an
 
 ## Auth+
 
-Systems as if this organization was a real Startup! All those projects must challenge me in a way (language, concepts, or tools), but all this effort should have a target: simulate microservices in the company.
+Project to build systems/services as if this organization was a real Startup! All those projects must challenge me in a way: language, concepts, or tools.
 
 ### Pitch Deck
 
@@ -26,10 +26,26 @@ Auth+ has small startup as a target, offering all kind of system at low cost, bu
 
 ### Competitors
 
+#### Authentication
+
 - <https://authrocket.com/plans>
 - <https://auth0.com/pricing>
 - <https://www.onelogin.com/>
 - <https://aws.amazon.com/pt/cognito/pricing/>
+
+#### Notification
+
+- <https://sendgrid.com/pricing>
+- <https://mailchimp.com/pt-br/pricing/marketing/>
+- <https://onesignal.com/pricing>
+- <https://aws.amazon.com/pt/sns/pricing/>
+- <https://www.braze.com/>
+
+#### Billing
+
+- <https://recurly.com/plans/>
+- <https://www.chargebee.com/pricing/?ref=navbar>
+- <https://www.zuora.com/>
 
 ### Repositories
 
