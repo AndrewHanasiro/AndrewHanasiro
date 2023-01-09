@@ -32,6 +32,14 @@ A lot of startups have a dilemma: should I create from zero **or** should I pay 
 
 Auth+ has small startup as a target, offering all kind of system at low cost, but also offering support to customize. Monetizing for each system that the client wants to subscribe
 
+### Repositories
+
+1. [Authentication](https://github.com/auth-plus/auth-plus-authentication) (Typescript/Express/Knex/Mocha/ts-mockito/casual)
+2. [Notification](https://github.com/auth-plus/auth-plus-notification) (Go/Gin/Testify/Gock/Faker)
+3. [Billing](https://github.com/auth-plus/auth-plus-billing) (Rust/Actix/sqlx/Mockall/Fake)
+4. [Infra](https://github.com/auth-plus/auth-plus-infra) (Pulumi)
+5. [Symphony](https://github.com/auth-plus/auth-plus-symphony) (Prometheus/Zipkin/ELK/Kafka)
+
 ### Competitors
 
 #### Authentication
@@ -55,10 +63,4 @@ Auth+ has small startup as a target, offering all kind of system at low cost, bu
 - <https://www.chargebee.com/pricing/?ref=navbar>
 - <https://www.zuora.com/>
 
-### Repositories
 
-1. [Authentication](https://github.com/auth-plus/auth-plus-authentication)
-2. [Notification](https://github.com/auth-plus/auth-plus-notification)
-3. [Billing](https://github.com/auth-plus/auth-plus-billing)
-4. [Tools](https://github.com/auth-plus/auth-plus-tools)
-5. [Infra](https://github.com/auth-plus/auth-plus-infra)
