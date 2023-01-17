@@ -8,9 +8,9 @@ On the back end, I learned about how to implement SOLID principles in code, 12 f
 
 On database concepts, I learned a lot about relational databases (Postgres, MariaDB) as constraints, indexes, procedures, and transactions, On the NoSQL database (Redis, MongoDB) I learned of high availability and partitioning. But most of all, the important thing is when to use each kind of database.
 
-On microservice concepts, I learned about dividing concerns into multiple services toward scalability, independent deployments, stack diversity and etc but at cost of consistency, interface between services, tracing complexity and etc.
+On microservice concepts, I learned about dividing concerns into multiple services for benefit of scalability, independent deployments, stack diversity and etc but at cost of consistency, interface between services, tracing complexity and etc.
 
-On Observability concepts, I learned a lot of metrics (Counter. Gauge, and Histogram) trace (event and distributed tracing), and logging (level, transporter)
+On Observability concepts, I learned a lot about metric (Counter. Gauge, and Histogram) trace (event and distributed tracing), and logging (level, transporter)
 
 ## Auth+
 
