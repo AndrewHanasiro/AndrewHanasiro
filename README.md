@@ -37,8 +37,9 @@ Auth+ has small startup as a target, offering all kind of system at low cost, bu
 1. [Authentication](https://github.com/auth-plus/auth-plus-authentication) (Typescript/Express/winston/Knex/Mocha/ts-mockito/casual)
 2. [Notification](https://github.com/auth-plus/auth-plus-notification) (Go/Gin/Zap/Testify/Gock/Faker)
 3. [Billing](https://github.com/auth-plus/auth-plus-billing) (Rust/Actix/sqlx/Mockall/Fake)
-4. [Infra](https://github.com/auth-plus/auth-plus-infra) (Pulumi)
-5. [Symphony](https://github.com/auth-plus/auth-plus-symphony) (Prometheus/Zipkin/ELK/Kafka)
+4. [Client](https://github.com/auth-plus/auth-plus-client)(Typescript/Svelte/Vite/Playwright)
+5. [Infra](https://github.com/auth-plus/auth-plus-infra) (Pulumi)
+6. [Symphony](https://github.com/auth-plus/auth-plus-symphony) (Prometheus/Zipkin/ELK/Kafka)
 
 ### Competitors
 
