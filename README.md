@@ -1,6 +1,6 @@
 # Andrew Hanasiro
 
-Over those 5 years, I learned to build reliable and maintainable systems using SOLID, 12 factors as a guide for my choices. I started with the front end with React (at the time it was class-based) and then I tried Vue, both with firebase for the back end. A while later I learned more about the backend which comes with database types, microservice trade-offs, observability concepts and etc.
+Over those 6 years, I learned to build reliable and maintainable systems using SOLID, 12 factors as a guide for my choices. I started with the front end with React (at the time it was class-based) and then I tried Vue, both with firebase for the back end. A while later I learned more about the backend which comes with database types, microservice trade-offs, observability concepts and etc.
 
 On the front end, I learned about how the browser works with DOM, critical rendering path, responsive design, SEO, client storage (local storage. session storage, and cookie) virtual DOM, component life-cycle, state management (Redux), Hook (useState, useEffect, useContext and etc) and a little bit of UX with 10 heuristics of Nielsen
  
